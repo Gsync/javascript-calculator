@@ -1,7 +1,14 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
     background-color: blue;
 }
 
+.header {
+    text-align: center;
+}
 .container {
     width: 280px;
     height: 370px;
